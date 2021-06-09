@@ -48,7 +48,6 @@ const About = ({name}) => {
                     <h3>Loading....</h3>
                 }
             </div>
-            
         </div>
         
     )
